@@ -1,0 +1,21 @@
+* {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.container {
+  background-color: white;
+  position: relative;
+  margin-top: 20em;
+}
+
+#quote-title {
+  font-family: 'Pangolin', cursive;
+  font-size: 4em;
+}
+
+#quote-author {
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em;
+  float: right;
+}
